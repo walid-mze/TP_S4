@@ -10,7 +10,7 @@ TP_S4 / TP1_Mamze_walid / main.cpp # Contains all the solutions for TP1 exercise
 
 Each folder contains a `main.cpp` file, which includes the solutions for all the exercises in that TP. To specify which exercise to run, a macro called `EXO` is used. This macro defines the exercise to be executed.
 
-### Steps to Run
+## Steps to Run
 
 1. Open a terminal.
 2. Navigate to the folder of the desired TP:
