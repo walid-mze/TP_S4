@@ -18,9 +18,7 @@ Each folder contains a `main.cpp` file, which includes the solutions for all the
    cd path/to/TP[number]_Mamze_walid
 3. Compile and run the file using the g++ command, specifying the exercise number (i) with the -DEXO flag.
    
-   For example:
-
-     To run exercise 1:
+   For example to run exercise 1:
       ```bash
          g++ main.cpp -DEXO=1 -o output && ./output
 5. The program will execute the solution for the specified exercise.
