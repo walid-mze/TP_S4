@@ -15,7 +15,7 @@ Each folder contains a `main.cpp` file, which includes the solutions for all the
 1. Open a terminal.
 2. Navigate to the folder of the desired TP:
    ```bash
-   cd path/to/TP1_Mamze_walid
+   cd path/to/TP[number]_Mamze_walid
 3. Compile and run the file using the g++ command, specifying the exercise number (i) with the -DEXO flag. For example:
   .To run exercise 1:
    ```bash
