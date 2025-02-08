@@ -20,5 +20,5 @@ Each folder contains a `main.cpp` file, which includes the solutions for all the
   .To run exercise 1:
    ```bash
       g++ main.cpp -DEXO=1 -o output && ./output
-4.The program will execute the solution for the specified exercise.
+4. The program will execute the solution for the specified exercise.
   
