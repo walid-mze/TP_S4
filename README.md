@@ -4,7 +4,7 @@ This repository contains the solutions for the C++ module assignments in Semeste
 
 ## Folder Structure
 
-TP_S4/ ├── TP1_Mamze_walid/ │ ├── main.cpp # Contains all the solutions for TP1 exercises ├── TP2_Mamze_walid/ │ ├── main.cpp # Contains all the solutions for TP2 exercises
+TP_S4/TP1_Mamze_walid/main.cpp # Contains all the solutions for TP1 exercises ├── TP2_Mamze_walid/ │ ├── main.cpp # Contains all the solutions for TP2 exercises
 
 
 ## How to Run the Files
