@@ -5,35 +5,41 @@ This repository contains solutions for the TP5 C++ exercises. Each exercise is i
 ## **Folder Structure**
 
 ```
-TP5 /
-│── exo1.cpp to exo6.cpp - Exercise source files
-│── Makefile  # Compilation script,
+TP5/
+│── exo1.cpp to exo6.cpp  # Exercise source files
+│── Makefile               # Compilation script
 ```
 
-## **Compilation and ExecutionUsage**
+## **Compilation and Execution**
 
 Each exercise is a standalone C++ file that can be compiled and executed using the provided `Makefile`.
 
-### **Compile all exercises### **
+### **Compile all exercises**
 
-   ```bash
-   make
-   ```
-### **Compile a specific exercise  **
-   ```bash
-   make exo1
-   ```
-### **Run an exercise### **
-   ```bash
-   ./exo1  # Replace 'exo1' with the desired exercise
-   ```
-### **To clean compiled files: **
-   ```bash
-   make clean
-   ```
+```bash
+make
+```
+
+### **Compile a specific exercise**
+
+```bash
+make exo1  # Replace 'exo1' with the desired exercise
+```
+
+### **Run an exercise**
+
+```bash
+./exo1  # Replace 'exo1' with the desired exercise
+```
+
+### **Clean compiled files**
+
+```bash
+make clean
+```
 
 ## **Requirements**
 
-- `g++` (C++17)
+- `g++` (C++17 or later)
 - `Make` utility
 
