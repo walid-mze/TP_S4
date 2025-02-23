@@ -19,7 +19,7 @@ Each exercise is a standalone C++ file that can be compiled and executed using t
    ```bash
    make
    ```
-### **Compile a specific exercise ### **
+### **Compile a specific exercise  **
    ```bash
    make exo1
    ```
@@ -27,7 +27,7 @@ Each exercise is a standalone C++ file that can be compiled and executed using t
    ```bash
    ./exo1  # Replace 'exo1' with the desired exercise
    ```
-### **To clean compiled files:### **
+### **To clean compiled files: **
    ```bash
    make clean
    ```
