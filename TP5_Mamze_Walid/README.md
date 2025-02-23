@@ -40,6 +40,6 @@ make clean
 
 ## **Requirements**
 
-- `g++` (C++17 or later)
+- `g++` (C++17 )
 - `Make` utility
 
