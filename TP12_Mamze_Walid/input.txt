@@ -1,0 +1,5 @@
+Voici une ligne sans mot-clé.
+Ceci est une ligne importante à garder.
+Une autre ligne sans rien.
+Encore une ligne importante à copier.
+Mot-clé : important
